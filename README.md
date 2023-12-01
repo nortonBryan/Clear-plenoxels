@@ -1,6 +1,7 @@
 # TODO
 
-## From left to right: Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
+## From left to right: 
+## Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
 <table>
 chair
 <td >
