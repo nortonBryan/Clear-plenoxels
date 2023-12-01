@@ -1,5 +1,6 @@
 # TODO
 
+## From left to right: Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
 <table>
 chair
 <td >
@@ -24,7 +25,7 @@ https://github.com/nortonBryan/TODO/assets/110318140/69a9744b-3bed-4a4a-a151-f41
 lego
 <td >
 
-https://github.com/nortonBryan/TODO/assets/110318140/17d2adff-499d-4be7-981b-d02e05179d0b
+https://github.com/nortonBryan/TODO/assets/110318140/4399e5df-a424-4e41-afc0-8fa31a8814c9
 
 </td>
 
