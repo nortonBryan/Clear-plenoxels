@@ -1,4 +1,4 @@
-# TODO
+# Clear-Plenoxels: Floaters-free radiance fields without networks
 
 ## From left to right: 
 ## Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
