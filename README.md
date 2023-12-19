@@ -1,5 +1,9 @@
 # Clear-Plenoxels: Floaters-free radiance fields without networks
 
+## We train a radiance fileds from scratch:
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/ef5c417e-7031-442b-ac2b-de778f1084cb
+
 ## From left to right: 
 ## Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
 <table>
