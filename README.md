@@ -4,7 +4,7 @@
 
 https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/ef5c417e-7031-442b-ac2b-de778f1084cb
 
-## Novel View Synthesis result:
+## After training terminated, below is our Novel View Synthesis result:
 
 https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/0d2c7d49-f6ec-4c96-afcb-aba9fa570148
 
