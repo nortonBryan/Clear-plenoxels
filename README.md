@@ -11,6 +11,16 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/0d2c7d49-f6ec-4c
 ## From left to right: 
 ## Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
 <table>
+ship
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/bd1979df-9b35-4e1d-ac09-6fb2cfad5531
+
+</td>
+
+</table>
+
+<table>
 chair
 <td >
   
@@ -51,16 +61,6 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/843ae2e5-0bd5-46
 <td >
 
 https://github.com/nortonBryan/TODO/assets/110318140/6acddb87-41e6-4fa0-8f20-1af74c76aca0
-
-</td>
-
-</table>
-
-<table>
-ship
-<td >
-
-https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/bd1979df-9b35-4e1d-ac09-6fb2cfad5531
 
 </td>
 
