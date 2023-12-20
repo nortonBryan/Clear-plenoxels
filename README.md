@@ -25,6 +25,14 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/998cbb15-baec-4f
 </td>
 </table>
 
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/ba615769-82de-4d3d-8423-d1048e8b7932
+
+</td>
+</table>
+
 ## After training converged, we can do Novel View Synthesis as demonstrated below:
 ## From left to right: 
 ## Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours
