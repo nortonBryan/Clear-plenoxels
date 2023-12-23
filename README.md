@@ -91,3 +91,13 @@ https://github.com/nortonBryan/TODO/assets/110318140/6acddb87-41e6-4fa0-8f20-1af
 </td>
 
 </table>
+
+## ZoomedInRendering
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/e625f02c-9ab2-4e00-a1d1-b88b2058f34e
+
+</td>
+
+</table>
