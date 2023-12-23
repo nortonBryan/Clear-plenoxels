@@ -102,3 +102,13 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/e625f02c-9ab2-4e
 </td>
 
 </table>
+
+## ZoomedInAndOutRendering
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/309b573b-fdf0-413b-83d5-ab6620d60605
+
+</td>
+
+</table>
