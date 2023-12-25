@@ -1,5 +1,7 @@
 # Clear-Plenoxels: Floaters-free radiance fields without networks
 
+## Due to video's size is limited by Github, right click and check "loop" for better experience.
+
 ## We train a radiance fileds from scratch by supervise rendering result from Volumetrical rendering:
 <table>
 <td >
