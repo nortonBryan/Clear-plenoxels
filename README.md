@@ -1,7 +1,5 @@
 # Clear-Plenoxels: Floaters-free radiance fields without networks
 
-## Due to video's size is limited by Github, right click and check "loop" for better experience.
-
 ## We train a radiance fileds from scratch by supervise rendering result from Volumetrical rendering:
 <table>
 <td >
@@ -44,6 +42,7 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/6ba89b6a-caf7-45
 </table>
 
 ## After training converged, we can do Novel View Synthesis as demonstrated below:
+## Due to video's size is limited by Github, right click and check "loop" for better experience.
 ## From left to right: 
 # $\color{red}{Ground Truth|Plenoxel|DVGO|3D Gaussian Splatting|Ours}$
 
