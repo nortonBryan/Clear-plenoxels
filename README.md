@@ -102,6 +102,42 @@ https://github.com/nortonBryan/TODO/assets/110318140/6acddb87-41e6-4fa0-8f20-1af
 
 </table>
 
+## Background Change situations
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/c374174c-14e8-410b-85aa-964cef0b270e
+
+</td>
+
+</table>
+
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/2a97a200-31e1-49e2-99ec-50ade87b7470
+
+</td>
+
+</table>
+
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/45a064c3-76b1-4be8-9ce0-36cae627e6f4
+
+</td>
+
+</table>
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/8b34040a-c2b0-4aa7-9dd0-ef98c8eb595b
+
+</td>
+
+</table>
+
 ## ZoomedInRendering
 <table>
 <td >
