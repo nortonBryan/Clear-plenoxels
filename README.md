@@ -118,6 +118,15 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/2245023c-c0b4-42
 </td>
 </table>
 
+<table>
+flower
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/100ad783-049b-41b7-a69e-0a73407f144a
+
+</td>
+</table>
+
 ## Depth:Ground Truth|Plenoxel|DVGO|Ours
 <table>
 <td >
