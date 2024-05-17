@@ -109,6 +109,15 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/843ae2e5-0bd5-46
 </td>
 </table>
 
+<table>
+fern
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/2245023c-c0b4-4275-859a-1cc75d1001f1
+
+</td>
+</table>
+
 ## Depth:Ground Truth|Plenoxel|DVGO|Ours
 <table>
 <td >
