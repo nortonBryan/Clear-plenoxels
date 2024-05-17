@@ -41,6 +41,23 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/6ba89b6a-caf7-45
 </td>
 </table>
 
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/5c31ebdc-3efc-491c-b812-2025eed6a3e5
+
+</td>
+</table>
+
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/be19883e-2c0d-4ad6-babf-5dab235aa338
+
+</td>
+</table>
+
+
 ## After training converged, we can do Novel View Synthesis as demonstrated below:
 ## Due to video's size is limited by Github, right click and check "loop" for better experience.
 ## From left to right: 
