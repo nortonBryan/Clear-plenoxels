@@ -57,6 +57,13 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/be19883e-2c0d-4a
 </td>
 </table>
 
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/e3536061-6d0f-454d-a4ad-257892fdfcf4
+
+</td>
+</table>
 
 ## After training converged, we can do Novel View Synthesis as demonstrated below:
 ## Due to video's size is limited by Github, right click and check "loop" for better experience.
@@ -123,6 +130,15 @@ flower
 <td >
 
 https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/100ad783-049b-41b7-a69e-0a73407f144a
+
+</td>
+</table>
+
+<table>
+trex
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/a12b7b36-b1b8-47d7-bccd-e11ba1e78820
 
 </td>
 </table>
