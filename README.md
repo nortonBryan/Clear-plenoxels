@@ -41,6 +41,30 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/6ba89b6a-caf7-45
 </td>
 </table>
 
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/5c31ebdc-3efc-491c-b812-2025eed6a3e5
+
+</td>
+</table>
+
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/be19883e-2c0d-4ad6-babf-5dab235aa338
+
+</td>
+</table>
+
+<table>
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/e3536061-6d0f-454d-a4ad-257892fdfcf4
+
+</td>
+</table>
+
 ## After training converged, we can do Novel View Synthesis as demonstrated below:
 ## Due to video's size is limited by Github, right click and check "loop" for better experience.
 ## From left to right: 
@@ -88,6 +112,33 @@ lego
 https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/843ae2e5-0bd5-4657-b11e-c82b4e1c4dd9
 
 ![lego](https://github.com/nortonBryan/TODO/assets/110318140/8c64333a-84aa-4e3f-b5cc-2952a4f12aaf)
+
+</td>
+</table>
+
+<table>
+fern
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/2245023c-c0b4-4275-859a-1cc75d1001f1
+
+</td>
+</table>
+
+<table>
+flower
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/100ad783-049b-41b7-a69e-0a73407f144a
+
+</td>
+</table>
+
+<table>
+trex
+<td >
+
+https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/a12b7b36-b1b8-47d7-bccd-e11ba1e78820
 
 </td>
 </table>
