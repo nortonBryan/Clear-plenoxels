@@ -189,16 +189,6 @@ https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/8b34040a-c2b0-4a
 
 </table>
 
-## Random capture dataset
-<table>
-<td >
-
-https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/e8b1ea60-5933-4420-b9b9-29a92c7020c4
-
-</td>
-
-</table>
-
 ## ZoomedInRendering
 <table>
 <td >
