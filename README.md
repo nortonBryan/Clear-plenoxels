@@ -1,5 +1,11 @@
 # Clear-Plenoxels: floaters free radiance fields without neural networks
+<table>
+<td >
+  
+![Overview](https://github.com/nortonBryan/Clear-plenoxels/assets/110318140/c619b699-5d31-49c6-979a-4e00aa883f3e)
 
+</td>
+</table>
 ## We train a radiance fileds from scratch by supervise rendering result from Volumetrical rendering:
 <table>
 <td >
