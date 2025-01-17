@@ -6,6 +6,7 @@
 
 </td>
 </table>
+### For training details, please refer to SparseVolumeRadianceField/README.md
 ## We train a radiance fileds from scratch by supervise rendering result from Volumetrical rendering:
 <table>
 <td >
