@@ -1,7 +1,10 @@
 ## Git clone
-
 ```bash
 git clone https://github.com/nortonBryan/Clear-plenoxels.git
+```
+## Environment configuration
+```bash
+pip install -r requirements.txt
 ```
 ## NeRF Datasets prepare
 ### Download NeRF Datasets in:
