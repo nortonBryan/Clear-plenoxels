@@ -1,2 +1,4 @@
 tips.txt
-*.py
+output/*
+ImageUtils.py
+SparseVolumeRadianceField/*
