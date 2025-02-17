@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```bash
 https://drive.google.com/drive/folders/1cK3UDIJqKAAm7zyrxRYVFJ0BRMgrwhh4
 ```
-### Transfer image to text formats (Since we do not use any other libaray like opencv for C/C++)
+### Transfer image to text formats (for transplantation)
 ```bash
 python utils/preprocess_datasets.py --dataset_dir path/to/your/NeRF Blender Dataset
 ```
