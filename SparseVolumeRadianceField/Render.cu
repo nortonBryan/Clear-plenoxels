@@ -353,7 +353,7 @@ void Render::objectSceneLearner(Configuration* configs)
 			{
 				if (configs->trainProcessViewIndex != -1 && batchIndex % (min((int)pow(2,this->currentHierarchy),(int)pow(2, this->trainingProcessIdx / configs->testCount))) == 0)
 				{
-					if(configs->trainProcessViewIndex<100&&configs>=0)
+					if(configs->trainProcessViewIndex<100&&configs->trainProcessViewIndex>=0)
 					{
 						RenderUtils::renderImage
 						(
