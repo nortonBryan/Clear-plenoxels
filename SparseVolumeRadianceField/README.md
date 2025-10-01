@@ -6,8 +6,8 @@ git clone https://github.com/nortonBryan/Clear-plenoxels.git
 ```bash
 pip install -r requirements.txt
 ```
-## NeRF Datasets prepare
-### Download NeRF Datasets in:
+## Download NeRF Datasets
+### NeRF Official link:
 ```bash
 https://drive.google.com/drive/folders/1cK3UDIJqKAAm7zyrxRYVFJ0BRMgrwhh4
 ```
